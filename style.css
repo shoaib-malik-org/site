@@ -1,0 +1,169 @@
+body{
+    /* background-color: black; */
+}
+h3{
+    font-size: 25px;
+    /* font-family: sans-serif; */
+    color: #0087b4;
+    /* font-weight: bold; */
+    /* font-family: monospace; */
+    /* word-spacing: -4px; */
+}
+p{
+    font-size: 20px;
+    color: rgb(43, 43, 43);
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+span{
+    font-size: 20px;
+    display: block;
+}
+h4{
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    top: -10px;
+    left: 5px;
+}
+img{
+    height: 300px;
+    width: 250px;
+}
+.color-btn{
+    border-color: black !important;
+
+}
+.title{
+    font-size: 45px;
+    /* font-family: sans-serif; */
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Roboto Mono', monospace;
+}
+.my-color-black{
+    background-color: #F9F3F3;
+}
+.navbar-my-logo:hover{
+    font-family:cursive;
+    color: rgb(0, 124, 21) !important;
+    margin-left: 11%;
+    font-size: 35px;
+}
+.navbar-my-logo{
+    font-family:cursive;
+    color: rgb(255, 0, 0) !important;
+    margin-left: 11%;
+    font-size: 35px;
+}
+.navbar-my-font{
+    font-family: sans-serif;
+    color: #396EB0!important;
+    font-size: 14px;
+}
+.navbar-my-font:hover{
+    font-family: sans-serif;
+    color: rgb(0, 0, 0) !important;
+    font-size: 14px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.my-align-hm{
+    margin-left: 140px !important;
+    margin-top: 200px;
+}
+.my-align-hm1{
+    margin-left: 140px !important;
+}
+.logo-apple{
+    height: 150px;
+    width: 250px;
+}
+.my-align-img-13{
+    margin-top: 200px;
+}
+.my-row{
+    padding-left: 11%;
+    padding-top: 10vh;
+    background-color: #F9F3F3;
+    /* display: inline-block; */
+}
+.my-row-2{
+    padding-left: 11%;
+    padding-bottom: 5.3vh;
+}
+.ml-my{
+    margin-left: 40%;
+}
+.my-border-nav{
+    border-color: white;
+}
+.button-hm{
+    height: 60px;
+    width: 35%;
+    border: solid;
+    border-radius: 10px;
+    border-color: white;
+    display: inline-block;
+    font-size: 15px;
+}
+.btn-my-class{
+    /* color: white; */
+    border: 10px;
+    /* border: white; */
+}
+.nav-border-my{
+    border: rgb(192, 192, 192);
+    border-style: none solid none none; 
+    border-radius: 2px;
+}
+.my-btn-prop2{
+    border-radius: 10px;
+    font-size: 25px;
+    position: relative;
+    margin-top: 4px;
+}
+.my-btn-prop1{
+    border-radius: 10px;
+    font-size: 25px;
+    position: relative;
+    margin-top: 4px;
+    width: 170px;
+}
+.for-gap{
+    width: 5px;
+    display: inline-block;
+}
+.maintain{
+    background-color: #F9F3F3;
+    height: 20vh;
+    width: 100vw;
+}
+.my-margin-for-row{
+    margin-top: 200px;
+    padding-bottom: 100px;
+}
+.iphone-img{
+    display: inline-block;
+}
+.brands:hover{
+    background-color: rgb(68, 68, 218);
+}
+.for-margin-top{
+    margin-top: 200px;
+}
+.p2{
+    color: rgb(90, 90, 90);
+    font-size: 20px;
+}
+.maintain-2{
+    margin-top: 200px;
+}
+.last-img{
+    height: 400px !important;
+}
+.my-left-margin{
+    margin-left: 5vw;
+    padding-right: 3vw;
+}
