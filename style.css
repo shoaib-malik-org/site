@@ -123,6 +123,7 @@ img{
     font-size: 25px;
     position: relative;
     margin-top: 4px;
+     width: 170px;
 }
 .my-btn-prop1{
     border-radius: 10px;
